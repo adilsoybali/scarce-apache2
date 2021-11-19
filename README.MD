@@ -17,13 +17,13 @@ This tool can scan websites with CVE-2021-41773 Vulnerability that are affecting
 <img src="https://raw.githubusercontent.com/HightechSec/scarce-apache2/main/img/1-scarceapache.png" width="30%"></img> <img src="https://raw.githubusercontent.com/HightechSec/scarce-apache2/main/img/2-scarceapache.png" width="30%"></img> <img src="https://raw.githubusercontent.com/HightechSec/scarce-apache2/main/img/3-scarceapache.png" width="30%"></img> 
 ## Installation
 ```
-- git clone https://github.com/HightechSec/scarce-apache2
+- git clone https://github.com/adilsoybali/scarce-apache2
 - cd scarce-apache2
 - bash scarce.sh
 ``` 
 or you can install in your system like this
 ```
-- git clone https://github.com/HightechSec/scarce-apache2
+- git clone https://github.com/adilsoybali/scarce-apache2
 - cd scarce-apache2
 - sudo cp scarce.sh /usr/bin/scarce && sudo chmod +x /usr/bin/scarce
 - $ scarce
